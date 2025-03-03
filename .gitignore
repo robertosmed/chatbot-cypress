@@ -2,11 +2,11 @@
 node_modules/
 
 # cypress
-cypress/results/*
-cypress/reports/*
-cypress/screenshots/*
-cypress/videos/*
+cypress/results/
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
 
 # outros
 .DS_Store
-TestData
+TestData.md
