@@ -1,8 +1,11 @@
 # dependencias
-node_modules
+node_modules/
 
 # cypress
-cypress/videos
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
 
 # outros
 .DS_Store

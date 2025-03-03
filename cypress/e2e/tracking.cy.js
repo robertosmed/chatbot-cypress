@@ -32,7 +32,7 @@ describe('Consulta de encomenda no chatbot', () => {
   })
 
 
-  it('Deve exibir erro para o codigo de rastreio nao encontrado', () => {
+  it('Deve exibir erro para o codigo de rastreio nao encontrado.', () => {
     const codigoDeRastreio = 'AB123456789XY'
 
     cy.abrirChatbot()
